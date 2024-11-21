@@ -3,6 +3,7 @@
 
 (private investigator's source code will be released once localization has been finished)
 
+## Terms of Distribution
 By using and modifying the code, you agree to the following terms:
 
 1. **Permitted Use**  
@@ -14,4 +15,23 @@ By using and modifying the code, you agree to the following terms:
 
 (not yet finished with the README.md so pls forgive as this is it for the README for now <3)
 
+
+## Feature(s)
+
+- Localization - Automatically translates the responses and descriptions to the interaction user's locale for easier understanding
+
+(lol im still trying to figure this out pls forgive me)
+
+
+
+## Localization
+
+- [@nothonxhina](https://github.com/nothonxhina) - Spanish | es-ES
+
+
+## Repositories Used
+
+- [@iamtraction/google-translate](https://github.com/iamtraction/google-translate) - Translation
+
+- [seven1m/open-bibles](https://github.com/seven1m/open-bibles) - The ASV Bible
 
