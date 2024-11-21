@@ -1,6 +1,8 @@
 
 # private investigator
 
+(private investigator's source code will be released once localization has been finished)
+
 By using and modifying the code, you agree to the following terms:
 
 1. **Permitted Use**  
