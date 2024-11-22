@@ -26,7 +26,7 @@ By using and modifying the code, you agree to the following terms:
 
 ## Localization
 
-- [@nothonxhina](https://github.com/nothonxhina) - Spanish | es-ES
+- [@nothonxhina](https://github.com/nothonxhina) - Spanish | es-ES / Japanese | ja
 
 
 ## Repositories Used
