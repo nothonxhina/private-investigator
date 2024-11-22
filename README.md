@@ -28,6 +28,8 @@ By using and modifying the code, you agree to the following terms:
 
 - [@nothonxhina](https://github.com/nothonxhina) - Spanish | es-ES / Japanese | ja
 
+(someone help me with localisation as i want the translation to be accurate and authentic, pls leave a msg req if you want to contribute <3 [your not getting paid lmao])
+
 
 ## Repositories Used
 
