@@ -28,12 +28,14 @@ By using and modifying the code, you agree to the following terms:
 
 - [@nothonxhina](https://github.com/nothonxhina) - Spanish | es-ES / Japanese | ja
 
+- @mqgr (x69dbg) - Russian | ru
+
 (someone help me with localisation as i want the translation to be accurate and authentic, pls leave a msg req if you want to contribute <3 [your not getting paid lmao])
 
 
 ## Repositories Used
 
-- [@iamtraction/google-translate](https://github.com/iamtraction/google-translate) - Translation
+- [@iamtraction/google-translate](https://github.com/iamtraction/google-translate) - Translation API 
 
 - [seven1m/open-bibles](https://github.com/seven1m/open-bibles) - The ASV Bible
 
