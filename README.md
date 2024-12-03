@@ -39,3 +39,5 @@ By using and modifying the code, you agree to the following terms:
 
 - [seven1m/open-bibles](https://github.com/seven1m/open-bibles) - The ASV Bible
 
+- [genius-lyrics-api](https://github.com/farshed/genius-lyrics-api) - Genius API 
+
