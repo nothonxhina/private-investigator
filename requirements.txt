@@ -1,0 +1,4 @@
+axios
+discord.js
+fs
+path
