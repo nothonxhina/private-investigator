@@ -1,4 +1,5 @@
 axios
 discord.js
 fs
+genius-lyrics
 path
