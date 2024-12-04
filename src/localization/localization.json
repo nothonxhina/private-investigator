@@ -1,0 +1,14 @@
+{
+    "command1": {
+        "description": {
+            "en-US": "This is an English (US) localization",
+            "ru": "This is a Russian localization"
+        },
+        "option1": {
+            "description": {
+                "en-US": "This is an English (US) localization",
+                "ru": "This is a Russian localization"
+            }
+        }
+    }
+}
